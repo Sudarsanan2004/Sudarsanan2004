@@ -1,4 +1,4 @@
-# 💫 About Me:
+v# 💫 About Me:
 👨‍💻 I’m currently working as:<br>Freelance webdev developing web applications and building non-autonomous sewage cleaning robot with my team.<br><br>🤝 I’m looking to collaborate on:<br>Exciting front-end development projects, ReactJS applications, and innovative hardware solutions.<br><br>🧠 I’m looking for help with:<br>Exploring advanced backend technologies, optimizing databases, and learning best practices for full-stack development.<br><br>💬 Ask me about:<br>Front-end development, building user-friendly interfaces with ReactJS, or hardware-based projects like drones and robotics.<br><br>⚡ Fun fact:<br>Transitioned from designing solar-powered drones to tackle real-world problems.
 
 
@@ -12,7 +12,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sudarsanan2004&theme=algolia&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sudarsanan2004&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ### 🔝 Top Contributed Repo
