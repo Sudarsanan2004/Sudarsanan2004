@@ -9,7 +9,7 @@
 <br/>
 
 <div align="center">
- 🚀 Tech Lead @ **Space Club**
+ 
  🔭 I’m currently working as a **Freelance web dev**
  
  
