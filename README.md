@@ -14,7 +14,7 @@
  
  🔭 I’m currently working as a **Freelance web dev**
 
- 🤖 Mastering precision with **Robot Calibration!**<br>
+ 🤖 Right now mastering precision with **Robot Calibration**<br>
  
  📚 Exploring **Data Structures and Algorithms** to level up problem-solving 
 
