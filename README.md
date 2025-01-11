@@ -1,3 +1,4 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sudarsanan2004.sudarsanan2004"/>
 <h1>About Me:</h1><br>
 👨‍💻 I’m currently working as:<br>Freelance webdev developing web applications and building non-autonomous sewage cleaning robot with my team.<br><br>🤝 I’m looking to collaborate on:<br>Exciting front-end development projects, ReactJS applications, and innovative hardware solutions.<br><br>🧠 I’m looking for help with:<br>Exploring advanced backend technologies, optimizing databases, and learning best practices for full-stack development.<br><br>💬 Ask me about:<br>Front-end development, building user-friendly interfaces with ReactJS, or hardware-based projects like drones and robotics.<br><br>⚡ Fun fact:<br>Transitioned from designing solar-powered drones to tackle real-world problems.
 
