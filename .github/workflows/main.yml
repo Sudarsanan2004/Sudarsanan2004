@@ -24,9 +24,11 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      # Step to clear any cached Git credentials
+      # Step to clear any cached Git credentials using git config
       - name: Clear Git Credentials
-        run: git credential-manager erase
+        run: |
+          git config --global --unset credential.helper
+          git config --global --unset http.https://github.com/.extraheader
 
       - name: Clone repo
         uses: actions/checkout@v3
@@ -54,4 +56,5 @@ jobs:
           commit_message: Update snake animations
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 
