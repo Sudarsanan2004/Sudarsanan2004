@@ -46,13 +46,6 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  
-  ![snake gif](https://github.com/sudarsanan2004/sudarsanan2004/blob/output/github-snake-dark.svg)
-  
-</div>
-
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
